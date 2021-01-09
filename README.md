@@ -1,4 +1,4 @@
-# PostgresqlTestTasks
+# PostgreSQLToOracle
 The repository demonstrates migration from Oracle to Postgresql.
 Test_tasks directory contains some code in Oracle pl/sql.
 Test_tasks_solved contains code in Postgresql plpgsql.
